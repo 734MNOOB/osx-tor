@@ -1,3 +1,6 @@
+# This is a backup of the original repo in case it goes down.
+======================
+
 # osx-tor
 
 (UPDATE 12/15/16: These instructions are out of date. References to tor-0.2.6.7 below need to be updated with the current version of Tor served by Homebrew. The general procedure should still work.)
